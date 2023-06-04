@@ -1,0 +1,19 @@
+       https://www.kaggle.com/datasets/uciml/forest-cover-type-dataset
+
+
+
+
+
+As for primary major tree species in these areas, Neota would have spruce/fir (type 1), 
+while Rawah and Comanche Peak would probably have lodgepole pine (type 2) as their primary species, followed by spruce/fir and aspen (type 5). 
+Cache la Poudre would tend to have Ponderosa pine (type 3), Douglas-fir (type 6), and cottonwood/willow (type 4). 
+
+The Rawah and Comanche Peak areas would tend to be more typical of the overall dataset than either the Neota or Cache la Poudre, 
+due to their assortment of tree species and range of predictive variable values (elevation, etc.)
+Cache la Poudre would probably be more unique than the others, due to its relatively low elevation range and species composition.
+
+
+we have been given a total of 54 attributes/features, these attributes contain Binary and Quantitative attributes,
+and we need to predict which Forest Cover-Type is it from the given features.
+Given is the attribute name, attribute type, the measurement unit and a brief description.
+The forest cover type is the classification problem. The order of this listing corresponds to the order of numerals along the rows of the database. 
